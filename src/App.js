@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Gerenciador de Tarefas
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://lh3.googleusercontent.com/ogw/AF2bZyhizDBdigGF8_zU6qmvSreCbNn9dIHz6tO5MHwVweHI81UL=s32-c-mo"
           target="_blank"
           rel="noopener noreferrer"
         >
-          UpDate React - deploy sucessful v2
+          Criado com React
         </a>
       </header>
     </div>
