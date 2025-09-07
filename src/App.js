@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          UpDate React - deploy sucessful
+          UpDate React - deploy sucessful v2
         </a>
       </header>
     </div>
